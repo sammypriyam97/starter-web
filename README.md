@@ -25,3 +25,6 @@ This is a copyright notice.
 
 ## Incase of an emergency
 Do not contact. whaatver be the emergency
+
+
+Describing the git diff and its working with pull request
